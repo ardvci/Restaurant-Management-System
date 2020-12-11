@@ -69,7 +69,6 @@ def btonreset():
     totalcost.set("")
     fileto.set("")
     burger.set("")
-#================================================I use random numbers for the referance of the order as soon as I learn SQL I will add this data from the database that I create========== 
 #I also make the calculations of the order in this funciton=============================================================================================================
 def referance():
     x=random.randint(10000,50000)
